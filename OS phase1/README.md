@@ -58,7 +58,7 @@ The output will be saved in the Output.txt file in the same directory.
   
 ## Screenshots
 ### Output 
-![](images/1.png)
+![](images/1.PNG)
 ### Output
 ![](images/2.png)
 ### Input.txt
